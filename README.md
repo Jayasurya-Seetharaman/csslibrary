@@ -42,7 +42,7 @@ Include JS File before closing <body> tag
     <div class="flex1">Flex 1</div>
 </div>
 ```
-![Drag Racing](img/https://github.com/Jayasurya-Seetharaman/csslibrary/blob/master/img/screen-shot-01.PNG)
+![Drag Racing](img/screen-shot-01.PNG)
 
 ---
 
